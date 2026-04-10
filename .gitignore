@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+venv2/
+*.code-workspace
+model.pth
+my_model/
